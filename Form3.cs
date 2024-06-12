@@ -8,14 +8,10 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Geldzähler_mit_Euro_3._0
+namespace Geldzähler_mit_Euro_4._0
 {
     public partial class Form3 : Form
     {
-        public int cent2
-        {
-            get { return (int)centTwo.Value; }
-        }
         public Form3()
         {
             InitializeComponent();

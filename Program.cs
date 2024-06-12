@@ -1,4 +1,4 @@
-namespace Geldzähler_mit_Euro_3._0
+namespace Geldzähler_mit_Euro_4._0
 {
     internal static class Program
     {

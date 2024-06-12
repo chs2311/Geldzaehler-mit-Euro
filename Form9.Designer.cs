@@ -1,4 +1,4 @@
-﻿namespace Geldzähler_mit_Euro_3._0
+﻿namespace Geldzähler_mit_Euro_4._0
 {
     partial class Form9
     {
@@ -29,23 +29,20 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form9));
-            this.button1 = new System.Windows.Forms.Button();
+            this.numericUpDown1 = new System.Windows.Forms.NumericUpDown();
             this.label1 = new System.Windows.Forms.Label();
-            this.euroTwo = new System.Windows.Forms.NumericUpDown();
+            this.button1 = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            ((System.ComponentModel.ISupportInitialize)(this.euroTwo)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
-            // button1
+            // numericUpDown1
             // 
-            this.button1.Location = new System.Drawing.Point(60, 41);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(112, 23);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "Bestätigen";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.numericUpDown1.Location = new System.Drawing.Point(130, 12);
+            this.numericUpDown1.Name = "numericUpDown1";
+            this.numericUpDown1.Size = new System.Drawing.Size(42, 23);
+            this.numericUpDown1.TabIndex = 0;
             // 
             // label1
             // 
@@ -56,12 +53,15 @@
             this.label1.TabIndex = 1;
             this.label1.Text = "Anzahl eingeben:";
             // 
-            // euroTwo
+            // button1
             // 
-            this.euroTwo.Location = new System.Drawing.Point(130, 12);
-            this.euroTwo.Name = "euroTwo";
-            this.euroTwo.Size = new System.Drawing.Size(42, 23);
-            this.euroTwo.TabIndex = 2;
+            this.button1.Location = new System.Drawing.Point(60, 41);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(112, 23);
+            this.button1.TabIndex = 2;
+            this.button1.Text = "Bestätigen";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // pictureBox1
             // 
@@ -78,14 +78,15 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(184, 209);
             this.Controls.Add(this.pictureBox1);
-            this.Controls.Add(this.euroTwo);
-            this.Controls.Add(this.label1);
             this.Controls.Add(this.button1);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.numericUpDown1);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Form9";
-            this.Text = "2-Euro-Münzen";
-            ((System.ComponentModel.ISupportInitialize)(this.euroTwo)).EndInit();
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "1-Cent-Münzen";
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -94,9 +95,9 @@
 
         #endregion
 
-        private Button button1;
+        private NumericUpDown numericUpDown1;
         private Label label1;
-        private NumericUpDown euroTwo;
+        private Button button1;
         private PictureBox pictureBox1;
     }
 }

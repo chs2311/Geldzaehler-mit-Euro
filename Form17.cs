@@ -8,18 +8,22 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Geldzähler_mit_Euro_3._0
+namespace Geldzähler_mit_Euro_4._0
 {
     public partial class Form17 : Form
     {
+        public int geld
+        {
+            get { return (int)numericUpDown1.Value; }
+        }
         public Form17()
         {
             InitializeComponent();
         }
 
-        private void Form17_Load(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
-            richTextBox1.Text = "Sie müssen zu jeder Münzen (bzw. Schein) die Anzahl hinzufügen, indem sie auf 'Hinzufügen' klicken und die Anzahl eingeben.             Zum berechnen:                   -> Datei -> Berechnen.";
+            DialogResult = DialogResult.OK;
         }
     }
 }

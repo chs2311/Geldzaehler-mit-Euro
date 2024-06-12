@@ -1,4 +1,4 @@
-﻿namespace Geldzähler_mit_Euro_3._0
+﻿namespace Geldzähler_mit_Euro_4._0
 {
     partial class Form7
     {
@@ -28,65 +28,79 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form7));
             this.label1 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
-            this.centFifty = new System.Windows.Forms.NumericUpDown();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            ((System.ComponentModel.ISupportInitialize)(this.centFifty)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.label2 = new System.Windows.Forms.Label();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.umr1 = new System.Windows.Forms.Button();
+            this.umr2 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(12, 14);
+            this.label1.Location = new System.Drawing.Point(12, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(98, 15);
+            this.label1.Size = new System.Drawing.Size(81, 15);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Anzahl eingeben:";
+            this.label1.Text = "Betrag in Euro";
             // 
-            // button1
+            // label2
             // 
-            this.button1.Location = new System.Drawing.Point(60, 41);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(112, 23);
-            this.button1.TabIndex = 1;
-            this.button1.Text = "Bestätigen";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(146, 9);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(89, 15);
+            this.label2.TabIndex = 1;
+            this.label2.Text = "Betrag in Pfund";
             // 
-            // centFifty
+            // textBox1
             // 
-            this.centFifty.Location = new System.Drawing.Point(130, 12);
-            this.centFifty.Name = "centFifty";
-            this.centFifty.Size = new System.Drawing.Size(42, 23);
-            this.centFifty.TabIndex = 2;
+            this.textBox1.Location = new System.Drawing.Point(12, 27);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(128, 23);
+            this.textBox1.TabIndex = 2;
             // 
-            // pictureBox1
+            // textBox2
             // 
-            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(12, 70);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(160, 127);
-            this.pictureBox1.TabIndex = 3;
-            this.pictureBox1.TabStop = false;
+            this.textBox2.Location = new System.Drawing.Point(146, 27);
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(128, 23);
+            this.textBox2.TabIndex = 3;
+            // 
+            // umr1
+            // 
+            this.umr1.Location = new System.Drawing.Point(12, 75);
+            this.umr1.Name = "umr1";
+            this.umr1.Size = new System.Drawing.Size(128, 23);
+            this.umr1.TabIndex = 4;
+            this.umr1.Text = "Von Euro zu Pfund";
+            this.umr1.UseVisualStyleBackColor = true;
+            this.umr1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // umr2
+            // 
+            this.umr2.Location = new System.Drawing.Point(146, 75);
+            this.umr2.Name = "umr2";
+            this.umr2.Size = new System.Drawing.Size(128, 23);
+            this.umr2.TabIndex = 5;
+            this.umr2.Text = "Von Pfund zu Euro";
+            this.umr2.UseVisualStyleBackColor = true;
+            this.umr2.Click += new System.EventHandler(this.button2_Click_1);
             // 
             // Form7
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(184, 209);
-            this.Controls.Add(this.pictureBox1);
-            this.Controls.Add(this.centFifty);
-            this.Controls.Add(this.button1);
+            this.ClientSize = new System.Drawing.Size(286, 108);
+            this.Controls.Add(this.umr2);
+            this.Controls.Add(this.umr1);
+            this.Controls.Add(this.textBox2);
+            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.MaximizeBox = false;
-            this.MinimizeBox = false;
             this.Name = "Form7";
-            this.Text = "50-Cent-Münzen";
-            ((System.ComponentModel.ISupportInitialize)(this.centFifty)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            this.Text = "Euro / Pfund";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -95,8 +109,10 @@
         #endregion
 
         private Label label1;
-        private Button button1;
-        private NumericUpDown centFifty;
-        private PictureBox pictureBox1;
+        private Label label2;
+        private TextBox textBox1;
+        private TextBox textBox2;
+        private Button umr1;
+        private Button umr2;
     }
 }

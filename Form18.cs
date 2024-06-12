@@ -8,13 +8,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Geldzähler_mit_Euro_3._0
+namespace Geldzähler_mit_Euro_4._0
 {
     public partial class Form18 : Form
     {
-        public string benutzername
+        public int geld
         {
-            get { return textBox1.Text; }
+            get { return (int)numericUpDown1.Value; }
         }
         public Form18()
         {
@@ -23,29 +23,7 @@ namespace Geldzähler_mit_Euro_3._0
 
         private void button1_Click(object sender, EventArgs e)
         {
-            //passwort = textbox1
-            //benutzername = textbox2
-            if (textBox1.Text == "Christian Schlei")
-            {
-                if (textBox2.Text == "CHS-0203-PC")
-                {
-                    DialogResult = DialogResult.OK;
-                }
-                else 
-                {
-                    textBox1.Text = "FALSCHES PASSWORT!";
-                }
-            }
-            else 
-            {
-                textBox2.Text = "FALSCHER BENUTZERNAME!";
-            }
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-            DialogResult = DialogResult.Cancel;
+            DialogResult = DialogResult.OK;
         }
     }
 }

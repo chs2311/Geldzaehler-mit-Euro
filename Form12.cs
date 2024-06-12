@@ -8,23 +8,17 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Geldzähler_mit_Euro_3._0
+namespace Geldzähler_mit_Euro_4._0
 {
     public partial class Form12 : Form
     {
-        public int euro20
+        public int geld
         {
-            get { return (int)euroTwenty.Value; }
+            get { return (int)numericUpDown1.Value; }
         }
-        
         public Form12()
         {
             InitializeComponent();
-        }
-
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-
         }
 
         private void button1_Click(object sender, EventArgs e)

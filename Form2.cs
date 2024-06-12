@@ -8,14 +8,10 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Geldzähler_mit_Euro_3._0
+namespace Geldzähler_mit_Euro_4._0
 {
     public partial class Form2 : Form
     {
-        public int cent1
-        {
-            get { return (int)centOne.Value; }
-        }
         public Form2()
         {
             InitializeComponent();
@@ -24,11 +20,6 @@ namespace Geldzähler_mit_Euro_3._0
         private void button1_Click(object sender, EventArgs e)
         {
             DialogResult = DialogResult.OK;
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

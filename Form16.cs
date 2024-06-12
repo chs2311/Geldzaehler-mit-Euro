@@ -8,18 +8,22 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Geldzähler_mit_Euro_3._0
+namespace Geldzähler_mit_Euro_4._0
 {
     public partial class Form16 : Form
     {
+        public int geld
+        {
+            get { return (int)numericUpDown1.Value; }
+        }
         public Form16()
         {
             InitializeComponent();
         }
 
-        private void Form16_Load(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
-            info.Text = " Geldzähler       Autor des Codes: Christian               (c) 2022, Christian Schlei";
+            DialogResult = DialogResult.OK;
         }
     }
 }
