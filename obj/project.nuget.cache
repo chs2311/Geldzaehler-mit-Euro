@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wpitU6yPgp4lj4v9/MKdTk+8tjV7xx1r2hdrbwDTRhNSbmigIkVfkeEADE/URxa58Z00pMc0iA2FD7ADDu/zKg==",
+  "dgSpecHash": "tX2r2jkcwQBaAqMQl8rXOipMP1R+PhK8I8XUCyCJeiaNXYbF+WKlZO0QYzuZrY20qHATYWObxSxCzZ9yvralCg==",
   "success": true,
-  "projectFilePath": "D:\\Projekte\\C#\\Geldzähler\\Geldzähler mit Euro 1.0\\Euro-Geldzähler\\Euro-Geldzähler.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\chris\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\chris\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\chris\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\chris\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\chris\\Desktop\\Geldzähler mit Euro 1.0\\Euro-Geldzähler\\Euro-Geldzähler.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
