@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Geldzähler_mit_Euro_4._0.Properties {
+namespace Geldzähler_mit_Euro.Properties {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace Geldzähler_mit_Euro_4._0.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Geldzähler_mit_Euro_4._0.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Geldzähler_mit_Euro.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
