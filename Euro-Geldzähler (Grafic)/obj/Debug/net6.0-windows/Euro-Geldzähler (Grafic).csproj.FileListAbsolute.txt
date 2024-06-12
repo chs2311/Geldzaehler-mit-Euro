@@ -1,0 +1,35 @@
+C:\Users\chris\Desktop\Selbstprogrammiert\Euro-Geldzähler (Grafic)\Euro-Geldzähler (Grafic)\bin\Debug\net6.0-windows\Euro-Geldzähler (Grafic).exe
+C:\Users\chris\Desktop\Selbstprogrammiert\Euro-Geldzähler (Grafic)\Euro-Geldzähler (Grafic)\bin\Debug\net6.0-windows\Euro-Geldzähler (Grafic).deps.json
+C:\Users\chris\Desktop\Selbstprogrammiert\Euro-Geldzähler (Grafic)\Euro-Geldzähler (Grafic)\bin\Debug\net6.0-windows\Euro-Geldzähler (Grafic).runtimeconfig.json
+C:\Users\chris\Desktop\Selbstprogrammiert\Euro-Geldzähler (Grafic)\Euro-Geldzähler (Grafic)\bin\Debug\net6.0-windows\Euro-Geldzähler (Grafic).dll
+C:\Users\chris\Desktop\Selbstprogrammiert\Euro-Geldzähler (Grafic)\Euro-Geldzähler (Grafic)\bin\Debug\net6.0-windows\Euro-Geldzähler (Grafic).pdb
+C:\Users\chris\Desktop\Selbstprogrammiert\Euro-Geldzähler (Grafic)\Euro-Geldzähler (Grafic)\obj\Debug\net6.0-windows\Euro-Geldzähler (Grafic).csproj.AssemblyReference.cache
+C:\Users\chris\Desktop\Selbstprogrammiert\Euro-Geldzähler (Grafic)\Euro-Geldzähler (Grafic)\obj\Debug\net6.0-windows\Euro_Geldzähler__Grafic_.Form1.resources
+C:\Users\chris\Desktop\Selbstprogrammiert\Euro-Geldzähler (Grafic)\Euro-Geldzähler (Grafic)\obj\Debug\net6.0-windows\Euro-Geldzähler (Grafic).csproj.GenerateResource.cache
+C:\Users\chris\Desktop\Selbstprogrammiert\Euro-Geldzähler (Grafic)\Euro-Geldzähler (Grafic)\obj\Debug\net6.0-windows\Euro-Geldzähler (Grafic).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Desktop\Selbstprogrammiert\Euro-Geldzähler (Grafic)\Euro-Geldzähler (Grafic)\obj\Debug\net6.0-windows\Euro-Geldzähler (Grafic).AssemblyInfoInputs.cache
+C:\Users\chris\Desktop\Selbstprogrammiert\Euro-Geldzähler (Grafic)\Euro-Geldzähler (Grafic)\obj\Debug\net6.0-windows\Euro-Geldzähler (Grafic).AssemblyInfo.cs
+C:\Users\chris\Desktop\Selbstprogrammiert\Euro-Geldzähler (Grafic)\Euro-Geldzähler (Grafic)\obj\Debug\net6.0-windows\Euro-Geldzähler (Grafic).csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Selbstprogrammiert\Euro-Geldzähler (Grafic)\Euro-Geldzähler (Grafic)\obj\Debug\net6.0-windows\Euro-Geldzähler (Grafic).dll
+C:\Users\chris\Desktop\Selbstprogrammiert\Euro-Geldzähler (Grafic)\Euro-Geldzähler (Grafic)\obj\Debug\net6.0-windows\refint\Euro-Geldzähler (Grafic).dll
+C:\Users\chris\Desktop\Selbstprogrammiert\Euro-Geldzähler (Grafic)\Euro-Geldzähler (Grafic)\obj\Debug\net6.0-windows\Euro-Geldzähler (Grafic).pdb
+C:\Users\chris\Desktop\Selbstprogrammiert\Euro-Geldzähler (Grafic)\Euro-Geldzähler (Grafic)\obj\Debug\net6.0-windows\Euro-Geldzähler (Grafic).genruntimeconfig.cache
+C:\Users\chris\Desktop\Selbstprogrammiert\Euro-Geldzähler (Grafic)\Euro-Geldzähler (Grafic)\obj\Debug\net6.0-windows\ref\Euro-Geldzähler (Grafic).dll
+C:\Users\chris\Desktop\Geldzähler\Geldzähler mit Euro 2.0\Euro-Geldzähler (Grafic)\bin\Debug\net6.0-windows\Euro-Geldzähler (Grafic).exe
+C:\Users\chris\Desktop\Geldzähler\Geldzähler mit Euro 2.0\Euro-Geldzähler (Grafic)\bin\Debug\net6.0-windows\Euro-Geldzähler (Grafic).deps.json
+C:\Users\chris\Desktop\Geldzähler\Geldzähler mit Euro 2.0\Euro-Geldzähler (Grafic)\bin\Debug\net6.0-windows\Euro-Geldzähler (Grafic).runtimeconfig.json
+C:\Users\chris\Desktop\Geldzähler\Geldzähler mit Euro 2.0\Euro-Geldzähler (Grafic)\bin\Debug\net6.0-windows\Euro-Geldzähler (Grafic).dll
+C:\Users\chris\Desktop\Geldzähler\Geldzähler mit Euro 2.0\Euro-Geldzähler (Grafic)\bin\Debug\net6.0-windows\Euro-Geldzähler (Grafic).pdb
+C:\Users\chris\Desktop\Geldzähler\Geldzähler mit Euro 2.0\Euro-Geldzähler (Grafic)\obj\Debug\net6.0-windows\Euro-Geldzähler (Grafic).csproj.AssemblyReference.cache
+C:\Users\chris\Desktop\Geldzähler\Geldzähler mit Euro 2.0\Euro-Geldzähler (Grafic)\obj\Debug\net6.0-windows\Euro_Geldzähler__Grafic_._1Dialog.resources
+C:\Users\chris\Desktop\Geldzähler\Geldzähler mit Euro 2.0\Euro-Geldzähler (Grafic)\obj\Debug\net6.0-windows\Euro_Geldzähler__Grafic_.Form1.resources
+C:\Users\chris\Desktop\Geldzähler\Geldzähler mit Euro 2.0\Euro-Geldzähler (Grafic)\obj\Debug\net6.0-windows\Euro-Geldzähler (Grafic).csproj.GenerateResource.cache
+C:\Users\chris\Desktop\Geldzähler\Geldzähler mit Euro 2.0\Euro-Geldzähler (Grafic)\obj\Debug\net6.0-windows\Euro-Geldzähler (Grafic).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Desktop\Geldzähler\Geldzähler mit Euro 2.0\Euro-Geldzähler (Grafic)\obj\Debug\net6.0-windows\Euro-Geldzähler (Grafic).AssemblyInfoInputs.cache
+C:\Users\chris\Desktop\Geldzähler\Geldzähler mit Euro 2.0\Euro-Geldzähler (Grafic)\obj\Debug\net6.0-windows\Euro-Geldzähler (Grafic).AssemblyInfo.cs
+C:\Users\chris\Desktop\Geldzähler\Geldzähler mit Euro 2.0\Euro-Geldzähler (Grafic)\obj\Debug\net6.0-windows\Euro-Geldzähler (Grafic).csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Geldzähler\Geldzähler mit Euro 2.0\Euro-Geldzähler (Grafic)\obj\Debug\net6.0-windows\Euro-Geldzähler (Grafic).dll
+C:\Users\chris\Desktop\Geldzähler\Geldzähler mit Euro 2.0\Euro-Geldzähler (Grafic)\obj\Debug\net6.0-windows\refint\Euro-Geldzähler (Grafic).dll
+C:\Users\chris\Desktop\Geldzähler\Geldzähler mit Euro 2.0\Euro-Geldzähler (Grafic)\obj\Debug\net6.0-windows\Euro-Geldzähler (Grafic).pdb
+C:\Users\chris\Desktop\Geldzähler\Geldzähler mit Euro 2.0\Euro-Geldzähler (Grafic)\obj\Debug\net6.0-windows\Euro-Geldzähler (Grafic).genruntimeconfig.cache
+C:\Users\chris\Desktop\Geldzähler\Geldzähler mit Euro 2.0\Euro-Geldzähler (Grafic)\obj\Debug\net6.0-windows\ref\Euro-Geldzähler (Grafic).dll
